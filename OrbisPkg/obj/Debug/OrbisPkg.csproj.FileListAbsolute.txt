@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\OrbisPkg-master\OrbisPkg\bin\Debug\OrbisPkg.exe.config
+C:\Users\User\Desktop\OrbisPkg-master\OrbisPkg\bin\Debug\OrbisPkg.exe
+C:\Users\User\Desktop\OrbisPkg-master\OrbisPkg\bin\Debug\OrbisPkg.pdb
+C:\Users\User\Desktop\OrbisPkg-master\OrbisPkg\obj\Debug\OrbisPkg.csprojAssemblyReference.cache
+C:\Users\User\Desktop\OrbisPkg-master\OrbisPkg\obj\Debug\OrbisPkg.Forms.frmPasscode.resources
+C:\Users\User\Desktop\OrbisPkg-master\OrbisPkg\obj\Debug\OrbisPkg.Forms.frmProperties.resources
+C:\Users\User\Desktop\OrbisPkg-master\OrbisPkg\obj\Debug\OrbisPkg.Main.resources
+C:\Users\User\Desktop\OrbisPkg-master\OrbisPkg\obj\Debug\OrbisPkg.Properties.Resources.resources
+C:\Users\User\Desktop\OrbisPkg-master\OrbisPkg\obj\Debug\OrbisPkg.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OrbisPkg-master\OrbisPkg\obj\Debug\OrbisPkg.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OrbisPkg-master\OrbisPkg\obj\Debug\OrbisPkg.exe
+C:\Users\User\Desktop\OrbisPkg-master\OrbisPkg\obj\Debug\OrbisPkg.pdb
